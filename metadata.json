@@ -1,0 +1,6 @@
+{
+  "name": "Vault Underground",
+  "description": "A premium, brutalist streetwear catalog and underground archive platform featuring limited-run sneakers, apparel, and design studies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
